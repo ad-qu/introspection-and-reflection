@@ -1,2 +1,3 @@
-# introspection-and-reflection
-DSA exercise made to practice the introspection and reflection propierties in Java.
+# Introspection and reflection
+
+Adrián Quirós.
