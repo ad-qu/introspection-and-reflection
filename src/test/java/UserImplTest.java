@@ -28,12 +28,10 @@ public class UserImplTest {
             System.out.println(constr.toGenericString());
         }
 
+        System.out.println("====================");
+
         for (Field f: c2.getDeclaredFields()) {
             System.out.println(f.getName());
-        }
-
-        for (Method m: c2.getDeclaredMethods()) {
-            System.out.println(m.getName());
         }
 
         System.out.println("====================");
